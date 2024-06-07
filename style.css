@@ -1,0 +1,34 @@
+src/main/java
+    com.airline.controller
+        UserController.java
+        FlightController.java
+        ReservationController.java
+    com.airline.dao
+        UserDAO.java
+        FlightDAO.java
+        ReservationDAO.java
+    com.airline.model
+        User.java
+        Flight.java
+        Reservation.java
+    com.airline.service
+        UserService.java
+        FlightService.java
+        ReservationService.java
+    com.airline.util
+        DatabaseUtil.java
+src/main/webapp
+    WEB-INF
+        views
+            index.jsp
+            login.jsp
+            register.jsp
+            flights.jsp
+            reservation.jsp
+        web.xml
+    static
+        css
+            style.css
+        js
+            script.js
+pom.xml
